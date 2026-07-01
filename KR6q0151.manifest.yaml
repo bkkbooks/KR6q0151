@@ -1,0 +1,2835 @@
+canonical_identifier: bkk:krp/KR6q0151/v1
+canonical_location: https://kanripo.org/bkk/KR6q0151/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 列祖提綱錄
+  identifiers:
+    alt_id:
+    - X64n1260
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1260.xml
+    old_id: X64n1260
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0151_000.yaml, hash: 'sha256:cfe27cd077c30b8f188bc9a9b634e7185972cd7ad7c2f78e422099a12b46801c'}
+  - {seq: 1, filename: KR6q0151_001.yaml, hash: 'sha256:574117399c67617d27adef35c1847493f237ddf5e4bd3b17cc0c4bf325d6af33'}
+  - {seq: 2, filename: KR6q0151_002.yaml, hash: 'sha256:9565eaa7afd5cf6985e827d0b36381e1e0cb6190ac7a1c5a8686e6200c8337fb'}
+  - {seq: 3, filename: KR6q0151_003.yaml, hash: 'sha256:8acfb03bcbaab06f309385ed13dcea89d7f394cf8755abda0e4ae89065a4d6d8'}
+  - {seq: 4, filename: KR6q0151_004.yaml, hash: 'sha256:71fc9f08d3273aba8cb0210823fb6bee3abb56fdc6b469acdda6e9e745675b02'}
+  - {seq: 5, filename: KR6q0151_005.yaml, hash: 'sha256:71d57140c1d9338af986e0bab49448c7e7c0ccda26e5a7fa2ad372a2d2bdb4fb'}
+  - {seq: 6, filename: KR6q0151_006.yaml, hash: 'sha256:a5c111aa43e7489217e025f116ba7b98eac9eb05f23e9a8c55ef22395680d426'}
+  - {seq: 7, filename: KR6q0151_007.yaml, hash: 'sha256:7cd81f7f1e43e75eb7cf452a9abdae478983967c1cb5395875a77666c60bf983'}
+  - {seq: 8, filename: KR6q0151_008.yaml, hash: 'sha256:968ef989b469b29f2e7ab3311b6d8c3191412fd342cd4f29ff8fc21c2df37480'}
+  - {seq: 9, filename: KR6q0151_009.yaml, hash: 'sha256:b240274a173d15c8cd039d695626345148c0922281228d6a616c9184cf340fe5'}
+  - {seq: 10, filename: KR6q0151_010.yaml, hash: 'sha256:8087151a675f28afc8ffc12cdfa7a9409674100be665cdabe32389cee95a424c'}
+  - {seq: 11, filename: KR6q0151_011.yaml, hash: 'sha256:756951f4ffb637180eac228072311b00656e96e50c0f63d16deda4f8a9b09dba'}
+  - {seq: 12, filename: KR6q0151_012.yaml, hash: 'sha256:77c52d15e2dd4f67474f034ff0fad417b560c3061f350ac090ad2880075d706c'}
+  - {seq: 13, filename: KR6q0151_013.yaml, hash: 'sha256:aab48e15a395c9166c2ae036e2bbaa78425d2c47c830997f901e2bdf06de9278'}
+  - {seq: 14, filename: KR6q0151_014.yaml, hash: 'sha256:c191ec549b6a03606904fef8fdd9add3f08ac0549897d2ba52c9f18e529a8057'}
+  - {seq: 15, filename: KR6q0151_015.yaml, hash: 'sha256:7221d0d388fd20bf779e7c17bdd0c762da538ef1d71e6f1fcf252a4e5f7c4b66'}
+  - {seq: 16, filename: KR6q0151_016.yaml, hash: 'sha256:a6641462028b9aa4cc85766cc11b5901743dc71c95faaea920324daa464693e1'}
+  - {seq: 17, filename: KR6q0151_017.yaml, hash: 'sha256:4825c572b2aa16843d3d93eaa0193158028304fcb258ae5eb3721ab6b55e265b'}
+  - {seq: 18, filename: KR6q0151_018.yaml, hash: 'sha256:8a6a55298bc845ca5cce45a57e4d4bb39e5867377b159e981e1c48a79ae2e104'}
+  - {seq: 19, filename: KR6q0151_019.yaml, hash: 'sha256:c2490f6ddf9e9359ebf22678637e9b4d5d243f96b7a70e45a49e107b1d07978f'}
+  - {seq: 20, filename: KR6q0151_020.yaml, hash: 'sha256:1c498dda396c07172c25029909ef52a678b9b6126d17feb1cf4406d5f3be65ed'}
+  - {seq: 21, filename: KR6q0151_021.yaml, hash: 'sha256:22c50a76acae5b9cbdf9232642b3fc75f8b1bb4d28202bbbfa8b8ff19360ddfc'}
+  - {seq: 22, filename: KR6q0151_022.yaml, hash: 'sha256:47c6dbf46d9d8fc0025c8965e865a075f98d4ca0ec92de39cd3c25d1f2a838d2'}
+  - {seq: 23, filename: KR6q0151_023.yaml, hash: 'sha256:329de1744943663622ad44a2933705f36956a7c8f7cc682004657c57a1a7858e'}
+  - {seq: 24, filename: KR6q0151_024.yaml, hash: 'sha256:2e5aca545c9596bbac51a9f7893b05adcb6cf7543a725e71ec825973e7c606b3'}
+  - {seq: 25, filename: KR6q0151_025.yaml, hash: 'sha256:3e64de4be9dd090efea8411528a4195d18265bbddb974b37ae51c3ce6b41d06c'}
+  - {seq: 26, filename: KR6q0151_026.yaml, hash: 'sha256:63eb22b4d15c31d2416d7d3827728bff7ed9e81d0901e9ffe3283e83ec9f5571'}
+  - {seq: 27, filename: KR6q0151_027.yaml, hash: 'sha256:962a4051a2159ed6fde6e1cdcb0156be723264b26e03e301ccde4da533d57a53'}
+  - {seq: 28, filename: KR6q0151_028.yaml, hash: 'sha256:8b79467f969033f4f12e5dec6f3eb77cb3d99db6e5f212bd8f6bb211d2cd1476'}
+  - {seq: 29, filename: KR6q0151_029.yaml, hash: 'sha256:6f47f726d0e8f37536a29fefa7efdccd3b8ecdfa4e8285cd404af2cce9ff9b82'}
+  - {seq: 30, filename: KR6q0151_030.yaml, hash: 'sha256:76aa2611dabc37242032997d465b2148ce9d7062fcc30950fdb1c7dd40d7dcff'}
+  - {seq: 31, filename: KR6q0151_031.yaml, hash: 'sha256:2c850cee7cfe7d36395d00ab6cfeee179349dad26ea53588f240c379fef9c7d2'}
+  - {seq: 32, filename: KR6q0151_032.yaml, hash: 'sha256:b7005e6c2f4656f36d4e71b111b67ede779d42da0fe87ecbf7565d7037a04400'}
+  - {seq: 33, filename: KR6q0151_033.yaml, hash: 'sha256:49a5a80a599144460fbe0593d2caa9b9bfb54f3c2f8c2122999aac1dd5023e6d'}
+  - {seq: 34, filename: KR6q0151_034.yaml, hash: 'sha256:54603c40d638611250f8d4a834f24d4cd94fddbee8233587e1b957645fbba8c7'}
+  - {seq: 35, filename: KR6q0151_035.yaml, hash: 'sha256:3acbd4131b0cf501d8e1c0cea6118509734b974e046582335f793d0e1e8e348b'}
+  - {seq: 36, filename: KR6q0151_036.yaml, hash: 'sha256:5f719c57072f67ff5ad89d09f689763989ba75372dc2f06d4d302fe9651355e0'}
+  - {seq: 37, filename: KR6q0151_037.yaml, hash: 'sha256:b32ce2ad614deecea26a3d3664bf03ef9d4de0ddc47701875c8f9103d468f58a'}
+  - {seq: 38, filename: KR6q0151_038.yaml, hash: 'sha256:670feb97a77daa56c6e0022a78215c94e834f939abc08b6216a282999ae02a15'}
+  - {seq: 39, filename: KR6q0151_039.yaml, hash: 'sha256:80aa53cfff7fd7fb893352e192c4b21cafa3197b538e630ddb3d525d4e4d0504'}
+  - {seq: 40, filename: KR6q0151_040.yaml, hash: 'sha256:4e1d472995552d2ad6f2b00def57bd16be311a4260e93bdd0d04e649beb3ba75'}
+  - {seq: 41, filename: KR6q0151_041.yaml, hash: 'sha256:f6b7622c5661ecc62f7d617b500bc495367120256d322e28697819ff31e669ce'}
+  - {seq: 42, filename: KR6q0151_042.yaml, hash: 'sha256:b4d0a560a0d64bac5d15da0529fa6a8437715351dc6f815d083d6a2d5b95da40'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0151_000.markers.yaml, hash: 'sha256:5e1453f3b8a9e509369f899ce0c2cf7e755af74a533a4446c4dfd34913ee072e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0151_001.markers.yaml, hash: 'sha256:88b76bda4b18a9cebbd8436624a123e2a398273ea650c3fc46867d75d26ae614'}
+  - {seq: 2, role: markers, filename: assets/KR6q0151_002.markers.yaml, hash: 'sha256:5d797672c41b1114bcd044f95263e9adc2fbd4b86644811dc49fc87bedd61a85'}
+  - {seq: 3, role: markers, filename: assets/KR6q0151_003.markers.yaml, hash: 'sha256:172d333debf78a3e6a3e69aacefb8bf6d1593cd9e3bad8d7b1ba66fb49d1656b'}
+  - {seq: 4, role: markers, filename: assets/KR6q0151_004.markers.yaml, hash: 'sha256:58a5b6f4cf716d2eb232d892b44bedfc011f02922f0cc8d6d76e37bad5a91c43'}
+  - {seq: 5, role: markers, filename: assets/KR6q0151_005.markers.yaml, hash: 'sha256:63b6b4088f81ba6191f4d3d3c872fbcebd95e73add21d014fd0fe3c24ffaef71'}
+  - {seq: 6, role: markers, filename: assets/KR6q0151_006.markers.yaml, hash: 'sha256:f5fa48d7842436f49352442e4d609cff741f15b78c17b403dbf1b524509115fd'}
+  - {seq: 7, role: markers, filename: assets/KR6q0151_007.markers.yaml, hash: 'sha256:493c9616008cec6815c87d4ff32e9dbba78daca8c91059fd3e2072a8e4bc3718'}
+  - {seq: 8, role: markers, filename: assets/KR6q0151_008.markers.yaml, hash: 'sha256:e11c68d2f209dcf3b61cda9205ef35b8d186f7520c6a4f58e0a74e05adfdb5b9'}
+  - {seq: 9, role: markers, filename: assets/KR6q0151_009.markers.yaml, hash: 'sha256:4aff1d2c2385ed29e0a4378424ae1c64becbd4b579ac34b221c0db3bc64601cb'}
+  - {seq: 10, role: markers, filename: assets/KR6q0151_010.markers.yaml, hash: 'sha256:a316b658a4f303e8d6286affbb0788a7fbda7b3cc79cb808e87fbe1998ae0853'}
+  - {seq: 11, role: markers, filename: assets/KR6q0151_011.markers.yaml, hash: 'sha256:1a5355c492d2278f39bf1b87c387613dd83ef1cb9591da185c84bcba9bdfb7c2'}
+  - {seq: 12, role: markers, filename: assets/KR6q0151_012.markers.yaml, hash: 'sha256:9e04fde6d9bede13a66b5f220d0a353883728e0f93594af6b0b9d996d876a3bc'}
+  - {seq: 13, role: markers, filename: assets/KR6q0151_013.markers.yaml, hash: 'sha256:c811be1e51e7ab9530e1edefc1e304563c94752edb2825d4d9e775224d1428eb'}
+  - {seq: 14, role: markers, filename: assets/KR6q0151_014.markers.yaml, hash: 'sha256:8633c076d36a98a1b9bcb1f8f5927bc459b7d79c28b97baf3802000cf27b17d1'}
+  - {seq: 15, role: markers, filename: assets/KR6q0151_015.markers.yaml, hash: 'sha256:52cf49a4ed7dfc636dc57c855eda0ed876f0dd72b61921860c08e8c8fc3fa266'}
+  - {seq: 16, role: markers, filename: assets/KR6q0151_016.markers.yaml, hash: 'sha256:906807b7cf27237e717bfff0ef0d88de7df93e155774c70030a2b35629e7d5c0'}
+  - {seq: 17, role: markers, filename: assets/KR6q0151_017.markers.yaml, hash: 'sha256:299811d9b762c509b99c5f1c73c5863cb7e487135abaa57a1066c84f418a60e6'}
+  - {seq: 18, role: markers, filename: assets/KR6q0151_018.markers.yaml, hash: 'sha256:606983ece51359de83c2d906bb9e0ffa78313ee0629345385d6c8433f6c5cf0f'}
+  - {seq: 19, role: markers, filename: assets/KR6q0151_019.markers.yaml, hash: 'sha256:65197f2aba01396e2def995f6642ba1fb21622f9d8355a87268cb10ca1a7fd4a'}
+  - {seq: 20, role: markers, filename: assets/KR6q0151_020.markers.yaml, hash: 'sha256:10ee160e1d942ad5f27a72960553bf4a1b45597b4d954c8302220b9de3d4bd59'}
+  - {seq: 21, role: markers, filename: assets/KR6q0151_021.markers.yaml, hash: 'sha256:72eff281942a0fd894eb88720acd7dab90a7c250f68c8981ca9fed1e645995a5'}
+  - {seq: 22, role: markers, filename: assets/KR6q0151_022.markers.yaml, hash: 'sha256:8e1ce33ba1d478bb3548ef8fe98b54af1be06a2da083cc199a54e3e8ddfa1999'}
+  - {seq: 23, role: markers, filename: assets/KR6q0151_023.markers.yaml, hash: 'sha256:81fda9b7e6e4ec0d5b2db637ace7103c376851c4775e73492dbfbe43ac66c286'}
+  - {seq: 24, role: markers, filename: assets/KR6q0151_024.markers.yaml, hash: 'sha256:f2bfb0d4ee9a8c64dee7e9b8cbddfa90daa1e9d05ac4c9fc07c1b032661dbf70'}
+  - {seq: 25, role: markers, filename: assets/KR6q0151_025.markers.yaml, hash: 'sha256:cd55f4f9707e7234db3bffdc13ef24e41996412aae8018809392d94992c07782'}
+  - {seq: 26, role: markers, filename: assets/KR6q0151_026.markers.yaml, hash: 'sha256:22a7917431b548048183e8c9f9a37cfa165fcf8825507b61fbdae8469b55dfa4'}
+  - {seq: 27, role: markers, filename: assets/KR6q0151_027.markers.yaml, hash: 'sha256:a2201f1a4e751c451b80b2c128d99570ea928eaba7fdf392ab15d501e4edcbc0'}
+  - {seq: 28, role: markers, filename: assets/KR6q0151_028.markers.yaml, hash: 'sha256:dd94a906bc747f763f6291516f874d84e98867f45495233432b8675a7db217df'}
+  - {seq: 29, role: markers, filename: assets/KR6q0151_029.markers.yaml, hash: 'sha256:cc002ca0d579d5451b287546af7b79dcdda45612ecf868dbb9cf9cd7bc0b5159'}
+  - {seq: 30, role: markers, filename: assets/KR6q0151_030.markers.yaml, hash: 'sha256:3a5de0f17ce5fee6bdb253f78bed0921142f9b8f1bb7c2a33b224f43726a821f'}
+  - {seq: 31, role: markers, filename: assets/KR6q0151_031.markers.yaml, hash: 'sha256:d6f78765c8eea0a0d7eaeab1e35104537c4f5d501122bc9ca87204e69f3c9c68'}
+  - {seq: 32, role: markers, filename: assets/KR6q0151_032.markers.yaml, hash: 'sha256:61320cb14b04548ef62e92539aa19035e45316903a46067b59e21c92cf57413c'}
+  - {seq: 33, role: markers, filename: assets/KR6q0151_033.markers.yaml, hash: 'sha256:1a9a3caede7a2362f3ff53d374c56a701a17024c8cf6b1ecc277ec742673d1a0'}
+  - {seq: 34, role: markers, filename: assets/KR6q0151_034.markers.yaml, hash: 'sha256:76523036fb020bf2ee4e4cf2a1a460a5900b5ef58b76145dd226549b059f5d9d'}
+  - {seq: 35, role: markers, filename: assets/KR6q0151_035.markers.yaml, hash: 'sha256:f814dfdacf33bfaaf7c02c9dd131bb18cd063b74e2cda5d0cfff3d9c024d4b1a'}
+  - {seq: 36, role: markers, filename: assets/KR6q0151_036.markers.yaml, hash: 'sha256:806194ae8a3ac5bf11e31dd192977ef381b90905d0aaa95d4ac5a438515d534a'}
+  - {seq: 37, role: markers, filename: assets/KR6q0151_037.markers.yaml, hash: 'sha256:f84a2051e822f72818f940a8157d32901bbd44a893b3242ad889b999e77dc44a'}
+  - {seq: 38, role: markers, filename: assets/KR6q0151_038.markers.yaml, hash: 'sha256:765dab10694ff3d629adb15cce43d5fc08cc3ebe1181128dcc3272c99839e29f'}
+  - {seq: 39, role: markers, filename: assets/KR6q0151_039.markers.yaml, hash: 'sha256:37f8ad48879b941f3e64a39f883299a4aab959825164a3c79340f1aaa69378be'}
+  - {seq: 40, role: markers, filename: assets/KR6q0151_040.markers.yaml, hash: 'sha256:209e3533967a8bd71a930e4a4a1e51e7e9bf3e9e3b32a7cc7fbd966201e52cee'}
+  - {seq: 41, role: markers, filename: assets/KR6q0151_041.markers.yaml, hash: 'sha256:183ead96ca92549f1473f76b14c234f32053df81c854faab8a9585f846bb257b'}
+  - {seq: 42, role: markers, filename: assets/KR6q0151_042.markers.yaml, hash: 'sha256:cdd25faec932dcf6088ecf734c74d63501d1a72722b9e11d348dca080ffbca0a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0151_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1260-A 列祖提綱錄敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0151_X_000-mulu-2
+    span:
+    - front
+    - 507
+    - 507
+  label: No. 1260-B 列祖提綱錄敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0151_X_000-mulu-3
+    span:
+    - front
+    - 1001
+    - 1001
+  label: No. 1260-C 列祖提綱緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0151_X_000-mulu-4
+    span:
+    - front
+    - 1475
+    - 1475
+  label: 提綱錄凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0151_X_000-mulu-5
+    span:
+    - front
+    - 2184
+    - 2184
+  label: 列祖提綱錄總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8940
+  label: 列祖提綱錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 聖節啟建提綱(祝釐)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-2
+    span:
+    - body
+    - 663
+    - 663
+  label: 正節提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-3
+    span:
+    - body
+    - 3330
+    - 3330
+  label: 滿散提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-4
+    span:
+    - body
+    - 3924
+    - 3924
+  label: 景命四齋日月旦提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-5
+    span:
+    - body
+    - 5013
+    - 5013
+  label: 月望提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-6
+    span:
+    - body
+    - 5800
+    - 5800
+  label: 初八念三提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-7
+    span:
+    - body
+    - 5887
+    - 5887
+  label: 改元登極提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-8
+    span:
+    - body
+    - 6072
+    - 6072
+  label: 千秋節提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0151_X_001-mulu-9
+    span:
+    - body
+    - 6326
+    - 6326
+  label: 受勅奉旨提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9063
+  label: 列祖提綱錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 降香到提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-mulu-2
+    span:
+    - body
+    - 2858
+    - 2858
+  label: 受師號紫衣提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-mulu-3
+    span:
+    - body
+    - 3995
+    - 3995
+  label: 聖主請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-mulu-4
+    span:
+    - body
+    - 5081
+    - 5081
+  label: 天眷請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-mulu-5
+    span:
+    - body
+    - 6147
+    - 6147
+  label: 宗藩請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-mulu-6
+    span:
+    - body
+    - 7433
+    - 7433
+  label: 詔汰提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0151_X_002-mulu-7
+    span:
+    - body
+    - 7859
+    - 7859
+  label: 詔復披剃提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0151_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 6824
+  label: 列祖提綱錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0151_X_003-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 國忌提綱(報恩)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0151_X_003-mulu-2
+    span:
+    - body
+    - 2537
+    - 2537
+  label: 祈晴提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0151_X_003-mulu-3
+    span:
+    - body
+    - 2795
+    - 2795
+  label: 祈雨提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0151_X_003-mulu-4
+    span:
+    - body
+    - 4127
+    - 4127
+  label: 謝雨提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0151_X_003-mulu-5
+    span:
+    - body
+    - 4725
+    - 4725
+  label: 祈雪提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0151_X_003-mulu-6
+    span:
+    - body
+    - 4865
+    - 4865
+  label: 謝雪提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0151_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 7546
+  label: 列祖提綱錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0151_X_004-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 佛降誕提綱(報本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0151_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 5881
+  label: 列祖提綱錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0151_X_005-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 佛成道日提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0151_X_005-mulu-2
+    span:
+    - body
+    - 3037
+    - 3037
+  label: 涅槃日提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0151_X_005-mulu-3
+    span:
+    - body
+    - 5764
+    - 5764
+  label: 先期率眾財提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 8633
+  label: 列祖提綱錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 達磨忌拈香法語(尊祖)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-2
+    span:
+    - body
+    - 1218
+    - 1218
+  label: 百丈忌拈香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-3
+    span:
+    - body
+    - 1306
+    - 1306
+  label: 開山忌拈香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-4
+    span:
+    - body
+    - 1622
+    - 1622
+  label: 開山忌提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-5
+    span:
+    - body
+    - 2200
+    - 2200
+  label: 嗣法師忌拈香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-6
+    span:
+    - body
+    - 4467
+    - 4467
+  label: 嗣法師忌日提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-7
+    span:
+    - body
+    - 5167
+    - 5167
+  label: 嗣法師翁忌拈香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-8
+    span:
+    - body
+    - 5664
+    - 5664
+  label: 嗣法師翁忌提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-9
+    span:
+    - body
+    - 5818
+    - 5818
+  label: 掃歷代祖塔拈香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-10
+    span:
+    - body
+    - 6060
+    - 6060
+  label: 掃歷代祖塔塔主請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-11
+    span:
+    - body
+    - 7799
+    - 7799
+  label: 祖塔塔主請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-12
+    span:
+    - body
+    - 8110
+    - 8110
+  label: 受業師忌拈香
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-13
+    span:
+    - body
+    - 8229
+    - 8229
+  label: 父忌提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0151_X_006-mulu-14
+    span:
+    - body
+    - 8345
+    - 8345
+  label: 母忌提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0151_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 14314
+  label: 列祖提綱錄卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0151_X_007-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 五參提綱(住持○五參提綱僅集禪燈諸錄餘者浩繁不及具載)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0151_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 11962
+  label: 列祖提綱錄卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0151_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 11220
+  label: 列祖提綱錄卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0151_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 13202
+  label: 列祖提綱錄卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0151_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 12712
+  label: 列祖提綱錄卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0151_X_011-mulu-1
+    span:
+    - body
+    - 2366
+    - 2366
+  label: 晚參提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0151_X_011-mulu-2
+    span:
+    - body
+    - 3429
+    - 3429
+  label: 小參提綱(四節)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0151_X_011-mulu-3
+    span:
+    - body
+    - 8760
+    - 8760
+  label: 解制提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0151_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 10064
+  label: 列祖提綱錄卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0151_X_012-mulu-1
+    span:
+    - body
+    - 3555
+    - 3555
+  label: 冬夜提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6q0151_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 10086
+  label: 列祖提綱錄卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6q0151_X_013-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 歲夜提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6q0151_X_013-mulu-2
+    span:
+    - body
+    - 7169
+    - 7169
+  label: 為亡者對靈提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0151_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 15101
+  label: 列祖提綱錄卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0151_X_014-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 告香普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0151_X_014-mulu-2
+    span:
+    - body
+    - 3668
+    - 3668
+  label: 夏前告香普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0151_X_014-mulu-3
+    span:
+    - body
+    - 8693
+    - 8693
+  label: 中夏普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0151_X_014-mulu-4
+    span:
+    - body
+    - 10119
+    - 10119
+  label: 檀越特請普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6q0151_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 13321
+  label: 列祖提綱錄卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6q0151_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 12144
+  label: 列祖提綱錄卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6q0151_X_016-mulu-1
+    span:
+    - body
+    - 5023
+    - 5023
+  label: 念誦提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6q0151_X_016-mulu-2
+    span:
+    - body
+    - 7693
+    - 7693
+  label: 水陸陞座提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 9987
+  label: 列祖提綱錄卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 肅眾提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-2
+    span:
+    - body
+    - 2286
+    - 2286
+  label: 訓童行規誨
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-3
+    span:
+    - body
+    - 2644
+    - 2644
+  label: 為行者普說(肅師語雖不甚暢然不失訓行者之體且諸家為行者普說竟少故錄)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-4
+    span:
+    - body
+    - 3791
+    - 3791
+  label: 受法衣提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-5
+    span:
+    - body
+    - 4193
+    - 4193
+  label: 病起提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-6
+    span:
+    - body
+    - 6333
+    - 6333
+  label: 掩室提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-7
+    span:
+    - body
+    - 6685
+    - 6685
+  label: 啟關提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6q0151_X_017-mulu-8
+    span:
+    - body
+    - 6966
+    - 6966
+  label: 迎待尊宿引座提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0151_X_018-juan-start
+    span:
+    - body
+    - 0
+    - 13093
+  label: 列祖提綱錄卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0151_X_018-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 迎待尊宿致謝提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0151_X_018-mulu-2
+    span:
+    - body
+    - 5732
+    - 5732
+  label: 護法至致謝提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6q0151_X_018-mulu-3
+    span:
+    - body
+    - 8595
+    - 8595
+  label: 到宗剎諸山請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-juan-start
+    span:
+    - body
+    - 0
+    - 10673
+  label: 列祖提綱錄卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 施主請陞座提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-2
+    span:
+    - body
+    - 2627
+    - 2627
+  label: 慶生提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-3
+    span:
+    - body
+    - 5094
+    - 5094
+  label: 祈嗣提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-4
+    span:
+    - body
+    - 5572
+    - 5572
+  label: 飯僧提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-5
+    span:
+    - body
+    - 7190
+    - 7190
+  label: 施齋田提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-6
+    span:
+    - body
+    - 7386
+    - 7386
+  label: 供羅漢提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-7
+    span:
+    - body
+    - 8135
+    - 8135
+  label: 放生提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6q0151_X_019-mulu-8
+    span:
+    - body
+    - 8785
+    - 8785
+  label: 供法衣提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-juan-start
+    span:
+    - body
+    - 0
+    - 10380
+  label: 列祖提綱錄卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 供法帔提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-2
+    span:
+    - body
+    - 312
+    - 312
+  label: 供寶葢提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-3
+    span:
+    - body
+    - 821
+    - 821
+  label: 資冥請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-4
+    span:
+    - body
+    - 7837
+    - 7837
+  label: 通嗣書至提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-5
+    span:
+    - body
+    - 8573
+    - 8573
+  label: 法眷書至提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-6
+    span:
+    - body
+    - 8784
+    - 8784
+  label: 嗣法師遺書至提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-7
+    span:
+    - body
+    - 9145
+    - 9145
+  label: 嗣法師遺書至舉哀拈香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-8
+    span:
+    - body
+    - 9822
+    - 9822
+  label: 二親遺書至提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6q0151_X_020-mulu-9
+    span:
+    - body
+    - 9874
+    - 9874
+  label: 歸省受業提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-juan-start
+    span:
+    - body
+    - 0
+    - 9843
+  label: 列祖提綱錄卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 受請陞座拈衣法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-2
+    span:
+    - body
+    - 312
+    - 312
+  label: 拈勅黃法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-3
+    span:
+    - body
+    - 736
+    - 736
+  label: 拈護法疏法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-4
+    span:
+    - body
+    - 1120
+    - 1120
+  label: 拈公帖法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-5
+    span:
+    - body
+    - 1451
+    - 1451
+  label: 指座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-6
+    span:
+    - body
+    - 1680
+    - 1680
+  label: 登座垂語
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-7
+    span:
+    - body
+    - 1849
+    - 1849
+  label: 受請陞座提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-8
+    span:
+    - body
+    - 5914
+    - 5914
+  label: 更受請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-9
+    span:
+    - body
+    - 5986
+    - 5986
+  label: 受請當晚小參提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-10
+    span:
+    - body
+    - 6835
+    - 6835
+  label: 辭眾提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6q0151_X_021-mulu-11
+    span:
+    - body
+    - 7865
+    - 7865
+  label: 名德頭首受請借座陞座(住持先為引座提綱)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-juan-start
+    span:
+    - body
+    - 0
+    - 10328
+  label: 列祖提綱錄卷第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 名德受請借座陞座提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-2
+    span:
+    - body
+    - 485
+    - 485
+  label: 名德受請借座當晚小參提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-3
+    span:
+    - body
+    - 669
+    - 669
+  label: 名德借座辭眾提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-4
+    span:
+    - body
+    - 873
+    - 873
+  label: 三門炷香法語(入院炷香佛事)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-5
+    span:
+    - body
+    - 1835
+    - 1835
+  label: 佛殿炷香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-6
+    span:
+    - body
+    - 3028
+    - 3028
+  label: 伽藍堂炷香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-7
+    span:
+    - body
+    - 3419
+    - 3419
+  label: 祖堂炷香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-8
+    span:
+    - body
+    - 4076
+    - 4076
+  label: 據室炷香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6q0151_X_022-mulu-9
+    span:
+    - body
+    - 6068
+    - 6068
+  label: 入院提綱(先德開堂必待朝命下或俟當道請方舉行故到院據室後但如尋常上堂而已)
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-juan-start
+    span:
+    - body
+    - 0
+    - 10383
+  label: 列祖提綱錄卷第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 拈勅黃法語(開堂祝聖佛事)
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-2
+    span:
+    - body
+    - 205
+    - 205
+  label: 捧御香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-3
+    span:
+    - body
+    - 336
+    - 336
+  label: 拈劄付法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-4
+    span:
+    - body
+    - 625
+    - 625
+  label: 拈公帖法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-5
+    span:
+    - body
+    - 811
+    - 811
+  label: 拈護法疏法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-6
+    span:
+    - body
+    - 1912
+    - 1912
+  label: 拈方外交疏法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-7
+    span:
+    - body
+    - 2082
+    - 2082
+  label: 拈山門疏法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-8
+    span:
+    - body
+    - 2365
+    - 2365
+  label: 拈諸山䟽法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-9
+    span:
+    - body
+    - 2548
+    - 2548
+  label: 拈三宗疏法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-10
+    span:
+    - body
+    - 2630
+    - 2630
+  label: 拈宗剎疏法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-11
+    span:
+    - body
+    - 2722
+    - 2722
+  label: 江湖疏法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-12
+    span:
+    - body
+    - 2892
+    - 2892
+  label: 指座法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-13
+    span:
+    - body
+    - 4785
+    - 4785
+  label: 拈太上皇皇太后后妃皇太子兩宮天眷等
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-14
+    span:
+    - body
+    - 4802
+    - 4802
+  label: 香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-15
+    span:
+    - body
+    - 5038
+    - 5038
+  label: 拈今上皇帝香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-16
+    span:
+    - body
+    - 6425
+    - 6425
+  label: 拈省院臺憲郡縣文武官僚等香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-17
+    span:
+    - body
+    - 7241
+    - 7241
+  label: 拈報謝香法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6q0151_X_023-mulu-18
+    span:
+    - body
+    - 7313
+    - 7313
+  label: 燒懷香法語(以上諸香皆係燒香侍者逐一度上惟嗣法香住持當從懷中拈出自插爐中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6q0151_X_024-juan-start
+    span:
+    - body
+    - 0
+    - 10722
+  label: 列祖提綱錄卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6q0151_X_024-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 白椎後垂語
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6q0151_X_024-mulu-2
+    span:
+    - body
+    - 2419
+    - 2419
+  label: 未入院當道請就別剎開堂提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6q0151_X_024-mulu-3
+    span:
+    - body
+    - 5526
+    - 5526
+  label: 入院後當請開堂提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6q0151_X_025-juan-start
+    span:
+    - body
+    - 0
+    - 8465
+  label: 列祖提綱錄卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6q0151_X_025-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 即入院日請開堂提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6q0151_X_026-juan-start
+    span:
+    - body
+    - 0
+    - 7504
+  label: 列祖提綱錄卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6q0151_X_026-mulu-1
+    span:
+    - body
+    - 2600
+    - 2600
+  label: 載住入院提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6q0151_X_026-mulu-2
+    span:
+    - body
+    - 3887
+    - 3887
+  label: 當晚小參提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6q0151_X_027-juan-start
+    span:
+    - body
+    - 0
+    - 7412
+  label: 列祖提綱錄卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6q0151_X_027-mulu-1
+    span:
+    - body
+    - 2985
+    - 2985
+  label: 載住當晚小參提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6q0151_X_027-mulu-2
+    span:
+    - body
+    - 3603
+    - 3603
+  label: 為建寺檀越陞座提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6q0151_X_027-mulu-3
+    span:
+    - body
+    - 4040
+    - 4040
+  label: 管待專使提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6q0151_X_027-mulu-4
+    span:
+    - body
+    - 4299
+    - 4299
+  label: 留請兩序提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6q0151_X_027-mulu-5
+    span:
+    - body
+    - 4841
+    - 4841
+  label: 報謝出入提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6q0151_X_027-mulu-6
+    span:
+    - body
+    - 6579
+    - 6579
+  label: 報謝回寺提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6q0151_X_028-juan-start
+    span:
+    - body
+    - 0
+    - 8145
+  label: 列祖提綱錄卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6q0151_X_028-mulu-1
+    span:
+    - body
+    - 1810
+    - 1810
+  label: 白眾出隊提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6q0151_X_028-mulu-2
+    span:
+    - body
+    - 4020
+    - 4020
+  label: 立聖像胎骨法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6q0151_X_028-mulu-3
+    span:
+    - body
+    - 4172
+    - 4172
+  label: 入聖像腹臟提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6q0151_X_028-mulu-4
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 聖像開光明提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6q0151_X_028-mulu-5
+    span:
+    - body
+    - 5933
+    - 5933
+  label: 像成檀越請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-juan-start
+    span:
+    - body
+    - 0
+    - 7627
+  label: 列祖提綱錄卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 請藏經提綱(經函 迎經 開經 閱經 焙經 補經 曬經)
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-2
+    span:
+    - body
+    - 1035
+    - 1035
+  label: 營建提綱(劈草 開基 立磉 竪柱)
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-3
+    span:
+    - body
+    - 1575
+    - 1575
+  label: 上梁提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-4
+    span:
+    - body
+    - 2235
+    - 2235
+  label: 挂寺額提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-5
+    span:
+    - body
+    - 2685
+    - 2685
+  label: 落成提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-6
+    span:
+    - body
+    - 4370
+    - 4370
+  label: 鑄鑊提綱(結竈進火)
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-7
+    span:
+    - body
+    - 4652
+    - 4652
+  label: 法座成提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-8
+    span:
+    - body
+    - 5030
+    - 5030
+  label: 建寶塔提綱(上塔珠 寶索相輪 塔告成)
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-9
+    span:
+    - body
+    - 5862
+    - 5862
+  label: 建壽塔提綱(定塔基 開塔基 立塔石竪塔心 開塔 閉塔)
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-10
+    span:
+    - body
+    - 6442
+    - 6442
+  label: 請行橋法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6q0151_X_029-mulu-11
+    span:
+    - body
+    - 7076
+    - 7076
+  label: 開田并謝提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-juan-start
+    span:
+    - body
+    - 0
+    - 7296
+  label: 列祖提綱錄卷第三十
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 退院提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-2
+    span:
+    - body
+    - 2259
+    - 2259
+  label: 退院載歸提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-3
+    span:
+    - body
+    - 2934
+    - 2934
+  label: 為住持遷化佛事法語(入龕移龕)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-4
+    span:
+    - body
+    - 3083
+    - 3083
+  label: 鎻龕
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-5
+    span:
+    - body
+    - 3674
+    - 3674
+  label: 法堂挂真
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-6
+    span:
+    - body
+    - 4034
+    - 4034
+  label: 舉哀
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-7
+    span:
+    - body
+    - 4305
+    - 4305
+  label: 奠茶湯
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-8
+    span:
+    - body
+    - 4500
+    - 4500
+  label: 大夜對靈
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-9
+    span:
+    - body
+    - 5447
+    - 5447
+  label: 起龕
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-10
+    span:
+    - body
+    - 6103
+    - 6103
+  label: 全身入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-11
+    span:
+    - body
+    - 6654
+    - 6654
+  label: 奠茶湯
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6q0151_X_030-mulu-12
+    span:
+    - body
+    - 6737
+    - 6737
+  label: 秉炬
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-juan-start
+    span:
+    - body
+    - 0
+    - 7725
+  label: 列祖提綱錄卷第三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 為住持遷化佛事法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-2
+    span:
+    - body
+    - 815
+    - 815
+  label: 安骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-3
+    span:
+    - body
+    - 1132
+    - 1132
+  label: 起骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-4
+    span:
+    - body
+    - 1206
+    - 1206
+  label: 轉骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-5
+    span:
+    - body
+    - 1277
+    - 1277
+  label: 煆骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-6
+    span:
+    - body
+    - 1621
+    - 1621
+  label: 靈骨入塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-7
+    span:
+    - body
+    - 1968
+    - 1968
+  label: 撒骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-8
+    span:
+    - body
+    - 2010
+    - 2010
+  label: 安牌
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-9
+    span:
+    - body
+    - 2741
+    - 2741
+  label: 尊宿遺書至提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-10
+    span:
+    - body
+    - 5210
+    - 5210
+  label: 護法遺書至提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-11
+    span:
+    - body
+    - 5373
+    - 5373
+  label: 請西序頭首提綱(兩序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-12
+    span:
+    - body
+    - 5677
+    - 5677
+  label: 請兩堂首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-13
+    span:
+    - body
+    - 6618
+    - 6618
+  label: 留首座
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-14
+    span:
+    - body
+    - 6835
+    - 6835
+  label: 請藏主侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6q0151_X_031-mulu-15
+    span:
+    - body
+    - 7187
+    - 7187
+  label: 請東序知事提綱(監寺 提點 典座)
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-juan-start
+    span:
+    - body
+    - 0
+    - 8963
+  label: 列祖提綱錄卷第三十二
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 請列職雜務提綱(修造 化主 發化主 監收)
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-mulu-2
+    span:
+    - body
+    - 2185
+    - 2185
+  label: 舉名德兼法嗣立僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-mulu-3
+    span:
+    - body
+    - 3685
+    - 3685
+  label: 立僧後秉命普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-mulu-4
+    span:
+    - body
+    - 6550
+    - 6550
+  label: 秉命入室後普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-mulu-5
+    span:
+    - body
+    - 7817
+    - 7817
+  label: 兩序進退提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-mulu-6
+    span:
+    - body
+    - 8404
+    - 8404
+  label: 挂鉢時請知事
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6q0151_X_032-mulu-7
+    span:
+    - body
+    - 8587
+    - 8587
+  label: 請兩序
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6q0151_X_033-juan-start
+    span:
+    - body
+    - 0
+    - 7019
+  label: 列祖提綱錄卷第三十三
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6q0151_X_033-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 謝西序頭首提綱(首座 書記 藏主 知殿 侍者)
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6q0151_X_033-mulu-2
+    span:
+    - body
+    - 2030
+    - 2030
+  label: 謝東序知事提綱(知事 監院 都監寺 維那 典座)
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6q0151_X_033-mulu-3
+    span:
+    - body
+    - 3516
+    - 3516
+  label: 謝列職雜務提綱(化主 莊主 監收 謝兩序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6q0151_X_033-mulu-4
+    span:
+    - body
+    - 6274
+    - 6274
+  label: 沙彌得度垂示(執刀 付衣係大眾章)
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-juan-start
+    span:
+    - body
+    - 0
+    - 8160
+  label: 列祖提綱錄卷第三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 度僧提綱(大眾)
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-mulu-2
+    span:
+    - body
+    - 765
+    - 765
+  label: 付戒提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-mulu-3
+    span:
+    - body
+    - 2719
+    - 2719
+  label: 道具提綱(鉢盂 拄杖 拂子)
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-mulu-4
+    span:
+    - body
+    - 3520
+    - 3520
+  label: 大挂搭歸堂提綱(名勝)
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-mulu-5
+    span:
+    - body
+    - 3826
+    - 3826
+  label: 普請提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-mulu-6
+    span:
+    - body
+    - 4658
+    - 4658
+  label: 亡僧遷化請佛事(鎻龕 起龕 奠茶湯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6q0151_X_034-mulu-7
+    span:
+    - body
+    - 6199
+    - 6199
+  label: 拄持為亡僧秉炬(清規云鎻龕起龕等佛事維那稟首座商量可以依資輪請頭首為之惟秉炬必請住持舉佛事今時諸方亦命頭首恐非古道)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6q0151_X_035-juan-start
+    span:
+    - body
+    - 0
+    - 8544
+  label: 列祖提綱錄卷第三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6q0151_X_035-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 住持為亡僧秉炬(起骨 煅骨 入塔 撒骨)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6q0151_X_035-mulu-2
+    span:
+    - body
+    - 3754
+    - 3754
+  label: 比丘尼遷化請佛事(起龕 秉炬 入塔)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6q0151_X_035-mulu-3
+    span:
+    - body
+    - 4275
+    - 4275
+  label: 優婆塞遷化請佛事(起棺 秉炬 起骨 入壙撒土 點主)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6q0151_X_035-mulu-4
+    span:
+    - body
+    - 7455
+    - 7455
+  label: 優婆夷遷化請佛事(起棺 茶炬 煅骨 入塔 撒骨 點主)
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6q0151_X_035-mulu-5
+    span:
+    - body
+    - 8233
+    - 8233
+  label: 建楞嚴會提綱(安居前)
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6q0151_X_036-juan-start
+    span:
+    - body
+    - 0
+    - 9350
+  label: 列祖提綱錄卷第三十六
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6q0151_X_036-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 結制提綱(節臘)
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6q0151_X_037-juan-start
+    span:
+    - body
+    - 0
+    - 9809
+  label: 列祖提綱錄卷第三十七
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6q0151_X_037-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 中夏提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6q0151_X_037-mulu-2
+    span:
+    - body
+    - 1429
+    - 1429
+  label: 建盂蘭盆會提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6q0151_X_037-mulu-3
+    span:
+    - body
+    - 1579
+    - 1579
+  label: 解制提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6q0151_X_038-juan-start
+    span:
+    - body
+    - 0
+    - 7836
+  label: 列祖提綱錄卷第三十八
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6q0151_X_038-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 頭首四節秉拂
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6q0151_X_038-mulu-2
+    span:
+    - body
+    - 1307
+    - 1307
+  label: 解制秉拂
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6q0151_X_038-mulu-3
+    span:
+    - body
+    - 1874
+    - 1874
+  label: 冬夜秉拂
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6q0151_X_038-mulu-4
+    span:
+    - body
+    - 2390
+    - 2390
+  label: 歲夜秉拂
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6q0151_X_038-mulu-5
+    span:
+    - body
+    - 3244
+    - 3244
+  label: 住持謝秉拂提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6q0151_X_038-mulu-6
+    span:
+    - body
+    - 4892
+    - 4892
+  label: 月分須知(正月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6q0151_X_039-juan-start
+    span:
+    - body
+    - 0
+    - 9690
+  label: 列祖提綱錄卷第三十九
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6q0151_X_039-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 元旦提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6q0151_X_039-mulu-2
+    span:
+    - body
+    - 3846
+    - 3846
+  label: 立春日提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6q0151_X_039-mulu-3
+    span:
+    - body
+    - 4898
+    - 4898
+  label: 元宵日提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6q0151_X_039-mulu-4
+    span:
+    - body
+    - 9516
+    - 9516
+  label: 二月閉罏日提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6q0151_X_040-juan-start
+    span:
+    - body
+    - 0
+    - 6769
+  label: 列祖提綱錄卷第四十
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6q0151_X_040-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 寒食提綱(三月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6q0151_X_040-mulu-2
+    span:
+    - body
+    - 794
+    - 794
+  label: 鋪帳簟提綱(四月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6q0151_X_040-mulu-3
+    span:
+    - body
+    - 865
+    - 865
+  label: 端午提綱(五月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6q0151_X_040-mulu-4
+    span:
+    - body
+    - 5287
+    - 5287
+  label: 青苗會提綱(啟 散 附炙茄 六月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6q0151_X_041-juan-start
+    span:
+    - body
+    - 0
+    - 7007
+  label: 列祖提綱錄卷第四十一
+  type: juan
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6q0151_X_041-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 立秋日提綱(七月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6q0151_X_041-mulu-2
+    span:
+    - body
+    - 282
+    - 282
+  label: 開旦過提綱(八月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6q0151_X_041-mulu-3
+    span:
+    - body
+    - 340
+    - 340
+  label: 中秋日提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6q0151_X_041-mulu-4
+    span:
+    - body
+    - 3287
+    - 3287
+  label: 重陽日提綱(九月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6q0151_X_041-mulu-5
+    span:
+    - body
+    - 5697
+    - 5697
+  label: 開爐提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6q0151_X_042-juan-start
+    span:
+    - body
+    - 0
+    - 8054
+  label: 列祖提綱錄卷第四十二
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6q0151_X_042-mulu-1
+    span:
+    - body
+    - 3304
+    - 3304
+  label: 冬至提綱(十一月)
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6q0151_X_042-mulu-2
+    span:
+    - body
+    - 6474
+    - 6474
+  label: 鑄法鐘提(法器 挂鐘 鳴鐘 施鐘)
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6q0151_X_042-mulu-3
+    span:
+    - body
+    - 7236
+    - 7236
+  label: 挂板法語(挂鐘板)
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6q0151_X_042-mulu-4
+    span:
+    - body
+    - 7563
+    - 7563
+  label: 挂木魚提綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6q0151_X_042-mulu-5
+    span:
+    - body
+    - 7639
+    - 7639
+  label: 製法皷提綱
+  type: mulu
+  level: 1
+hash: sha256:070417fa3ceb3959352fe48d108907436e6e271ef8a49004222f7f0ddf678155
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
