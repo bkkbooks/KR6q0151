@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0151_000-X.yaml, hash: 'sha256:0a2face2ba861af5aa1a031878eef2bfeb470a62a63593190f82c68bb40c2098'}
+  - {seq: 0, filename: KR6q0151_000-X.yaml, hash: 'sha256:7ce13403236942214b82a6c904ebf99aafbdc5e47a5766f33f8b53a879dd94a4'}
   - {seq: 1, filename: KR6q0151_001-X.yaml, hash: 'sha256:c2329f37d0888984e6d53874e0d5ade3b9f0a1927bdd72e376e89aa088b043b0'}
   - {seq: 2, filename: KR6q0151_002-X.yaml, hash: 'sha256:7673153afc57942b662b38142e8de0039eff006f7ab1fd3c573a8dd4428e111b'}
   - {seq: 3, filename: KR6q0151_003-X.yaml, hash: 'sha256:9af67fd5cedff085f67789aae1b5e6041442ecb059c7f7cbaf1287cb3e651e49'}
@@ -63,7 +63,7 @@ assets:
   - {seq: 41, filename: KR6q0151_041-X.yaml, hash: 'sha256:cf61e475e92aecc4a9cf05ac9383a78126983d6b7669040086cf47e40a87be0c'}
   - {seq: 42, filename: KR6q0151_042-X.yaml, hash: 'sha256:04b31272bf0a939ee4092cd61557fa9631445fadf058956d461388df3e03f266'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0151_000-X.markers.yaml, hash: 'sha256:41fe40571fec4928d522b9eae91f3a6e9f4cc880add02f0338f5ac42c1fd52e3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0151_000-X.markers.yaml, hash: 'sha256:bcbeb7b5450638b175663c4a4a5fe135b943f18ad067f35a1666ec58d751fff0'}
   - {seq: 1, role: markers, filename: assets/KR6q0151_001-X.markers.yaml, hash: 'sha256:2b9ff55ae1cd2736bff6ce32a9b50cfcfbbcb6da9a55cd8b311330cfe64673be'}
   - {seq: 2, role: markers, filename: assets/KR6q0151_002-X.markers.yaml, hash: 'sha256:24227fcf6833db08d987d951adc013f5ee33ea3aeff1cc57147bcf45f09520e7'}
   - {seq: 3, role: markers, filename: assets/KR6q0151_003-X.markers.yaml, hash: 'sha256:1472b006b67621b20bb628d07f70d23f212741e2a886123ead89b634389c09ba'}
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0151_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1260-A 列祖提綱錄敘
@@ -121,7 +121,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0151_X_000-mulu-2
     span:
-    - front
+    - body
     - 507
     - 507
   label: No. 1260-B 列祖提綱錄敘
@@ -131,7 +131,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0151_X_000-mulu-3
     span:
-    - front
+    - body
     - 1001
     - 1001
   label: No. 1260-C 列祖提綱緣起
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0151_X_000-mulu-4
     span:
-    - front
+    - body
     - 1475
     - 1475
   label: 提綱錄凡例
@@ -151,7 +151,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0151_X_000-mulu-5
     span:
-    - front
+    - body
     - 2184
     - 2184
   label: 列祖提綱錄總目
@@ -2827,4 +2827,4 @@ table_of_contents:
   label: 製法皷提綱
   type: mulu
   level: 1
-hash: sha256:834853bc34653831f750ae3f16ca5032c79093403a8419c094162fe3653cb0db
+hash: sha256:992e165685af2eccfec3106d5b60822c8be9d26cd2551d1b0ae7a8094492554a
